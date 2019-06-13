@@ -1,4 +1,6 @@
 # Add your variables here
-first_number = 6
-second_number = 2 
+first_number = 6.0 
+second_number = 2.0 
+
 sum = first_number + second_number
+
